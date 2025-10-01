@@ -1,1 +1,2 @@
-# C-sharp-course
+# Automated workstation for manager and employee
+
